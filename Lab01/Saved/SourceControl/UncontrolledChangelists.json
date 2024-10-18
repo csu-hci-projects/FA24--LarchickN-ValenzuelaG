@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/SpinningChair.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Lab01.umap",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/BP-Programming.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/FlamingBarrel.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Shapes/Shape_Cylinder.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/LightSwitch.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/PickUpScore.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/PickUp.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Shapes/Shape_Sphere.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/Platform.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/Spark_Platform.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/MyMaterials/Hit.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/Target.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/MovingTarget.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/UI/UserInterface.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/Custom/AmmoPickup.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/UI/WinMenu.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset",
+				"C:/Users/gerardov/Documents/Unreal Projects/Lab01/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+			]
+		}
+	]
+}
