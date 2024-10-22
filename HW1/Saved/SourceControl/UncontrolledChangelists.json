@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/HW1/Content/UI/PlayerUI.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/HW1/Content/Levels/HW1_Level1.umap",
 				"C:/Users/Gerardo/Desktop/FA24--LarchickN-ValenzuelaG/HW1/Content/Blueprints/AmmoPickup.uasset",
 				"C:/Users/Gerardo/Desktop/FA24--LarchickN-ValenzuelaG/HW1/Content/Levels/HW1_Level1.umap",
 				"C:/Users/Gerardo/Desktop/FA24--LarchickN-ValenzuelaG/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
