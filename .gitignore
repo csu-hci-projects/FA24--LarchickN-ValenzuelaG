@@ -74,3 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 *.log
 *.ini
+HW1/Saved/SourceControl/UncontrolledChangelists.json
+HW1/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+HW1/Saved/AutoScreenshot.png
