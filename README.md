@@ -1,8 +1,8 @@
 # FA24--LarchickN-ValenzuelaG--Assignment#1
 ### REQUIRED LINKS
 * Completion videos:
-  - Video One
-  - Video Two
+  - [Blueprints](https://www.youtube.com/watch?v=TI_YCWlAeAg&ab_channel=GerardoValenzuela)
+  - [Features](https://www.youtube.com/watch?v=zEIHSRxXR-c&ab_channel=GerardoValenzuela)
 * AI Report Document:
   - Report
 ### Steps Toward Completion
