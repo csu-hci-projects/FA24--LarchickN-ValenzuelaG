@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/CustomBlueprints/Ammo_Pistol.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/Levels/VR_Level.umap",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/CustomBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/larch/OneDrive/Documents/GitHub/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/CustomBlueprints/IA_Reload_Left.uasset",
 				"C:/Users/Gerardo/Desktop/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/Levels/VR_Level.umap",
 				"C:/Users/nlarchic/Desktop/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/CustomBlueprints/VR_Trophy.uasset",
 				"C:/Users/nlarchic/Desktop/FA24--LarchickN-ValenzuelaG/Lab3/Lab03/Content/Levels/VR_Level.umap",
